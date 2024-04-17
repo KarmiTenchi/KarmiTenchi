@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Clinton! 
+Fullstack engineer and an all-round fun guy! I'm looking to collaborate on fun projects and you'll be doing me a solid if you refer me as well.
+
+How to reach me? send me an email at akpamaclinton@gmail.com, or a twitter dm @brokekami.
+See you at the top!
 <!--
 **KarmiTenchi/KarmiTenchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
